@@ -1,6 +1,7 @@
 ### bio
 reed is a dumb bitch 
 
-[![button](<img src="file-alt-solid.svg" alt="resume" width="200"/>)](https://www.google.com/)
+[![button](/photos/file-alt-solid.svg) {width=50%}](https://www.google.com/)
 
-<img src="file-alt-solid.svg" alt="resume" width="200"/>
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
