@@ -1,6 +1,6 @@
 # Ya Boi got an eagle scout thing
 
-![image]((IMG_02281.jpg)
+![image](IMG_02281.jpg)
 ##### March 2016 - May 2016
 BSA, Eagle Scout and Troop Leader, Temecula, CA
 Organized the construction of two “cat trees” for a local animal shelter from donated and fundraised materials 
