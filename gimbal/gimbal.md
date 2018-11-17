@@ -1,13 +1,15 @@
+<!--- Introduction -->
 # Engineering Graphics Design Project
 - Worked with a team of three to design a DJI Inspire Drone GoPro Camera Gimbal Mount
 - going to put some stuff here
 
 ![pretty cool photo](photos/hqdefault.jpg)
 
+<!--- What are we doing -->
 # MAE 1200 Design Project: "Drone Gimbal"
 GoPro Hero 4 Session
 
-# Design Requirements
+# The Design Requirements
 
 Problem Statement:
 Your task is to 
@@ -38,20 +40,32 @@ Jello Effect
 https://www.youtube.com/watch?v=HYpuScaSc80
 
 
-## FunctionalRequirements:
+## Functional Requirements:
 
-- The gimbal must have at least two (2) axis of rotation
-(roll and pitch) with a goal of having 
-three (3) axis of rotation (roll, pitch, and yaw)
+- The gimbal must have at least two (2) axis of rotation(roll and pitch) with a goal of having three (3) axis of rotation (roll, pitch, and yaw)
 
 - The mass of the gimbal should not significantly affect flight times
 
-- One end of the gimbal must be able to attach to the 3D Printable DJI Inspire 1 drone’s “Gimbal Frame”, as shown in figure 2,
-with a goal of this attachment being quick release in nature
+- One end of the gimbal must be able to attach to the 3D Printable DJI Inspire 1 drone’s “Gimbal Frame”, as shown in figure 2, with a goal of this attachment being quick release in nature
 
-Figure 1:  (left) GoPro Hero 4 Session, (right) 3D Printable DJI Inspire 1 Drone
+- The other end of the gimbal must be able to attach to a GoPro Hero 4 Session with a goal of this attachment being quick release in nature
 
-Figure 2:  “Gimbal Frame” 
+- The camera’s FOV must not be blocked by any part of the drone while facing forward in flight
+
+- The gimbal must have the means be able to mechanically press the start/stop recording button on the GoPro Hero 4 Session
+
+- The lowest portion of the camera/gimbal must be at least 15mm from the ground when the drone is on a flat surface
+
+- The gimbal must use actuators that are common to remote control vehicles
+
+- The other end of the gimbal must be able to attach to a GoPro Hero 4 Session, with a goal of this attachment being quick release in nature
+
+- The camera’s FOV must not be blocked by any part of the drone while facing forward in fligh
+
+- The gimbal must have the means be able to mechanically press the start/stop recording button on the GoPro Hero 4 Session
+
+- The lowest portion of the camera/gimbal must be at least 15mm from the ground when the drone is on a flat surface 
+
 
 <!---
 your comment goes here
