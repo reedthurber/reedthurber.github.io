@@ -1,4 +1,4 @@
 ### bio
 reed is a dumb bitch 
 
-[![button]()](https://www.google.com/)
+[![button](reedthurber.github.io/photos/download.png)](https://www.google.com/)
