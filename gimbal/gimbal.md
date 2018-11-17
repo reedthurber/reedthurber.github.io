@@ -1,29 +1,27 @@
+<!--- 
+Structure: 
+Brief Synopsis of the project
+link to original document
+Problem definition
+conceptual analysis
+system overview
+link t
+-->
 <!--- Introduction -->
 # Engineering Graphics Design Project
-- Worked with a team of three to design a DJI Inspire Drone GoPro Camera Gimbal Mount
-- going to put some stuff here
 
-![pretty cool photo](photos/hqdefault.jpg)
+![Gimbal front](gimbal_photos/RenderFront.JPG)
+March 2017 - May 2017  
+Design a camera gimbal for a DJI Inspire Drone
+      
+imbed some sort of pdf in the page/ download button?
+![title](reedthurber.github.io/Micro Tiger Design Project.pdf)
 
-<!--- What are we doing -->
-# MAE 1200 Design Project: "Drone Gimbal"
-GoPro Hero 4 Session
 
-# The Design Requirements
+<!---
+refer
 
-Problem Statement:
-Your task is to 
-design a gimbal mechanism that can attach a GoPro Hero 4 Session to a 
-3D printable version of the DJI Inspire drone
-
-The gimbal mechanism should have at least 
-- two (2) axis of rotation
-- some form of dampening for image stabilization while the drone is in 
-flight. 
-- mechanically start and stop recording the gopro 
-.
-
-reference videos
+ence videos
 Riding in Zermat 
 https://www.youtube.com/watch?v=tF70v_3s12Q
 Ride the Wave 
@@ -66,8 +64,7 @@ https://www.youtube.com/watch?v=HYpuScaSc80
 
 - The lowest portion of the camera/gimbal must be at least 15mm from the ground when the drone is on a flat surface 
 
-
+-->
 <!---
-your comment goes here
-and here
+I don't think functional requirements are going to be necessary
 -->
