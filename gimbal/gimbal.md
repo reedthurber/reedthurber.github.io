@@ -10,7 +10,7 @@ link t
 <!--- Introduction -->
 # Engineering Graphics Design Project
 
-![Gimbal front](gimbal_photos/RenderFront.JPG)
+![Gimbal front](photos/RenderFront.JPG)
 March 2017 - May 2017  
 Design a camera gimbal for a DJI Inspire Drone
       
