@@ -348,9 +348,9 @@ a:focus, a:hover, a:active {
   border-width: 2px;
 }
 
-// yeet photo
 .bg-photo {
-  background-image: url("photos/innaarsuit_oil_2018186_lrg.jpg");
+  background-image: url("photos/innaarsuit_oil_2018186_lrg.jpg") !important;
+  background-color: #0f9d58 !important;
 }
 
 .bg-primary {
