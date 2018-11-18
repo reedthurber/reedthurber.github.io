@@ -175,7 +175,8 @@ section h2 {
 header.masthead {
   padding-top: calc(6rem + 72px);
   padding-bottom: 6rem;
-}
+  background-image: url("photos/innaarsuit_oil_2018186_lrg.jpg");
+  }
 
 header.masthead h1 {
   font-size: 3rem;
